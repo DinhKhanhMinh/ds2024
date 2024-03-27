@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Đinh Khánh Minh
 * Student ID: BI12-265
-* Student Group ID: Not-for-now
+* Student Group ID: Group 11
